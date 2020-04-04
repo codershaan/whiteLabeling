@@ -1,0 +1,7 @@
+/* Type-1 */
+.multi .carousel-control {
+    width:  4%;
+  }
+  .carousel-control.left, .carousel-control.right {
+    background-image:none;
+  }
